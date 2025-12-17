@@ -247,10 +247,6 @@ Detailed trip view with budget breakdown, hotel and activity recommendations
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👨‍💻 Author
 
 Built with ❤️ by a passionate developer
