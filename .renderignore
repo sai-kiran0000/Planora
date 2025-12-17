@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+backend/target/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.docker
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Docker
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# Documentation (optional)
+DOCKER.md
